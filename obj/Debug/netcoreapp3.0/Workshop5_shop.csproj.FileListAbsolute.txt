@@ -1,0 +1,11 @@
+C:\Users\piotr_swiderek\QALab\QALab\Workshop5_shop\obj\Debug\netcoreapp3.0\Workshop5_shop.AssemblyInfoInputs.cache
+C:\Users\piotr_swiderek\QALab\QALab\Workshop5_shop\obj\Debug\netcoreapp3.0\Workshop5_shop.AssemblyInfo.cs
+C:\Users\piotr_swiderek\QALab\QALab\Workshop5_shop\bin\Debug\netcoreapp3.0\Workshop5_shop.exe
+C:\Users\piotr_swiderek\QALab\QALab\Workshop5_shop\bin\Debug\netcoreapp3.0\Workshop5_shop.deps.json
+C:\Users\piotr_swiderek\QALab\QALab\Workshop5_shop\bin\Debug\netcoreapp3.0\Workshop5_shop.runtimeconfig.json
+C:\Users\piotr_swiderek\QALab\QALab\Workshop5_shop\bin\Debug\netcoreapp3.0\Workshop5_shop.runtimeconfig.dev.json
+C:\Users\piotr_swiderek\QALab\QALab\Workshop5_shop\bin\Debug\netcoreapp3.0\Workshop5_shop.dll
+C:\Users\piotr_swiderek\QALab\QALab\Workshop5_shop\bin\Debug\netcoreapp3.0\Workshop5_shop.pdb
+C:\Users\piotr_swiderek\QALab\QALab\Workshop5_shop\obj\Debug\netcoreapp3.0\Workshop5_shop.dll
+C:\Users\piotr_swiderek\QALab\QALab\Workshop5_shop\obj\Debug\netcoreapp3.0\Workshop5_shop.pdb
+C:\Users\piotr_swiderek\QALab\QALab\Workshop5_shop\obj\Debug\netcoreapp3.0\Workshop5_shop.csprojAssemblyReference.cache
